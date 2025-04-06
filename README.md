@@ -25,7 +25,7 @@ This is a simple FastAPI-based backend service that matches users with available
 1. Clone the repo:
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+cd YOUR_REPO_NAME```
 2.Create a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
